@@ -1,16 +1,30 @@
-### Hi there 👋
+# Oi, eu sou o Pedro 😁
 
-<!--
-**programecompedro/programecompedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Amante de tecnologia e processos de gestão e análises, 
+estou concluíndo o ultimo semestre de **ADS** na **UNIP!**
+Estou focado em Python para Web, um dia quero trabalhar com Machine
+Learning.
 
-Here are some ideas to get you started:
+# Tecnologias  👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python ✔️
+- Django / Django Rest  (API Rest)✔️
+- PostgreSQL / MySQL ✔️
+- Vue 2 / JS ✔️
+-  Git / Github ✔️
+- Conhecimento em Linux e Redes ✔️
+- Heroku ✔️
+
+## Sobre 
+
+#### "A arte de programar consiste em organizar e dominar a complexidade." 🧠
+ - Desenvolvedor **FullStack** na **Block it Sec**
+ - Estudante de Análise e Desenvolvimento de Sistemas **(UNIP)**
+ - Curioso | Empreendedor | Visão de Líder | Haki do Rei 
+ - Esforçado | Exigente | Eterno Aprendiz | Hokage
+ - Amante de Python | Javascript | Visionário
+
+## Projetos
+
+- https://fusion-demeusoftware.herokuapp.com/
+- Em breve mais projetos....
