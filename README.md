@@ -7,9 +7,12 @@ estou concluíndo o ultimo semestre de **ADS** na **UNIP!**
 Estou focado em Python para Web, um dia quero trabalhar com Machine
 Learning.
 
+#### Entre em contato comigo:
+
 <a href="https://www.instagram.com/programecompedro/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="30" alt="Instagram"></img></a>
 <a href="https://www.linkedin.com/in/programecompedro/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="Linkedin"></img></a>
 
+<br><br>
 
 # Tecnologias  👨‍💻
 <div align="left">
@@ -22,7 +25,8 @@ Learning.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
 </div>
-## Sobre 
+
+# Sobre 
 
 #### "A arte de programar consiste em organizar e dominar a complexidade." 🧠
  - Desenvolvedor **FullStack** na **Block it Sec**
@@ -31,7 +35,7 @@ Learning.
  - Esforçado | Exigente | Eterno Aprendiz | Hokage
  - Amante de Python | Javascript | Visionário
 
-## Projetos
+# Projetos
 
 - https://fusion-demeusoftware.herokuapp.com/
 - Em breve mais projetos....
