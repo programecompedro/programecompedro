@@ -8,7 +8,7 @@ estou cursando o ultimo semestre de **ADS** na **UNIP!**
 Estou focado em ser fluente no inglês e ir para o próximo nível em React JS
 
 #### Entre em contato comigo:
-<a href="https://www.instagram.com/programecompedro/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="30" alt="Instagram"></img></a>
+<a href="https://www.instagram.com/bolach4x/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="30" alt="Instagram"></img></a>
 <a href="https://www.linkedin.com/in/programecompedro/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="Linkedin"></img></a>
 
 <br><br>
@@ -29,9 +29,9 @@ Estou focado em ser fluente no inglês e ir para o próximo nível em React JS
 </div>
 
 #### "A arte de programar consiste em organizar e dominar a complexidade." 🧠
- - Desenvolvedor **FullStack** na **Block it Sec**
+ - Desenvolvedor **Frontend** na **Segware**
  - Estudante de Análise e Desenvolvimento de Sistemas **(UNIP)**
- - Curioso | Empreendedor | Visão de Líder | API
+ - Curioso | Empreendedor | Typescript | API
  - Esforçado | Exigente | Eterno Aprendiz | Javascript (ES6)
  - Python | Frontend | Visionário | Backend | React JS
 
